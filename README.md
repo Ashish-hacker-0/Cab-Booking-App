@@ -1,4 +1,4 @@
-<h2>Cab Booking App</h2>
+<h2>Cab Booking Android App</h2>
 <p>Cab Booking App has almost all features of apps like uber, ola.</p>
 
 <h3>Home Screen</h3>
